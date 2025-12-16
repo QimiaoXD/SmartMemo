@@ -1,0 +1,17 @@
+<resources>
+    <!-- 主色（Toolbar / AppBar） -->
+    <color name="colorPrimary">#4A6FA5</color>
+    <color name="colorPrimaryVariant">#3C5F8F</color>
+
+    <!-- 强调色（按钮 / FAB / Switch） -->
+    <color name="colorSecondary">#6B8EC6</color>
+
+    <!-- 背景与文字 -->
+    <color name="colorBackground">#F7F9FC</color>
+    <color name="colorSurface">#FFFFFF</color>
+
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#1F2933</color>
+    <color name="colorOnSurface">#1F2933</color>
+</resources>

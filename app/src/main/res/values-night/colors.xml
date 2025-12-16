@@ -1,0 +1,16 @@
+<resources>
+    <!-- Night 主色：低饱和蓝灰，不刺眼 -->
+    <color name="colorPrimary">#2F4C73</color>
+    <color name="colorPrimaryVariant">#243A57</color>
+    <color name="colorSecondary">#5E83C2</color>
+
+    <!-- Night 背景/表面：深灰系（像系统夜间） -->
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#1E1E1E</color>
+
+    <!-- Night 文字 -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnBackground">#EAEAEA</color>
+    <color name="colorOnSurface">#EAEAEA</color>
+</resources>

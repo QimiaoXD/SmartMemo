@@ -16,10 +16,17 @@ SmartMemo 是一个基于 **Android Studio** 开发的综合性 Android 应用�
 - 3）数据存储、数据分享、网络访问等 ✅  
 
 ## 开发环境
-- Android Studio
-- JDK
-- Gradle（随 Android Studio）
-- Android 设备/模拟器（建议 Android 8.0+）
+- **开发工具**：Android Studio
+- **构建系统**：Gradle（Kotlin DSL）
+- **编程语言**：Java（Java 11）
+- **最低支持版本**：Android 7.0（API 24）
+- **目标 / 编译版本**：Android API 36
+- **主要依赖库**：
+  - AndroidX AppCompat 1.7.0
+  - Material Components 1.12.0
+  - RecyclerView 1.3.2
+  - CoordinatorLayout 1.2.0
+  - OkHttp 4.12.0（用于网络请求）
 
 ## 运行方式
 1. 克隆项目到本地：
